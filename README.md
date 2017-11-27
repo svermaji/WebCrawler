@@ -6,4 +6,4 @@ This program as of now checks base url, fetch page and prepare all urls for:
   - script attribute
   - img attribute
 
-but for downstream to collect other links will only visit page that ends with .html/.htm link
+but for downstream to collect other links will only visit page that ends with .html/.htm/.asp/.jsp etc link
