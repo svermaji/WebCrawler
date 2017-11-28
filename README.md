@@ -1,5 +1,7 @@
 # WebCrawler
 
+Pure Java code with no framework.
+
 This program as of now checks base url, fetch page and prepare all urls for:
   - href attribute
   - link attribute
@@ -19,3 +21,13 @@ How to compile:
 
 How to execute:
    - Please execute run.bat file from root folder of project
+   - To run on specific domain either change WebCrawler.java and recompile
+   - Or you can pass argument - for this copy command from run.bat and execute on command prompt
+
+With more time
+    - Better design can be thought off
+    - Performance can be improved
+    - Think of adding third party utilities
+    - More test can be included
+    - Error handling can be improved
+    - Ignored url can be treated in better ways
