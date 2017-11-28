@@ -21,7 +21,7 @@ public class WebCrawler {
     private List<String> patternNames;
 
     //private String domain = "http://www.serosoft.in";
-    private String domain = "file:///c:/sv/sero.html";
+    private String domain = "file:///" + Utils.getCurrentDir() + "/resource/sero.html";
     private String domainToChk = domain;
 
     private MyLogger logger;
@@ -59,22 +59,13 @@ public class WebCrawler {
         patternNames.add(SCRIPT_PATTERN);
 
         patterns = new ArrayList<>();
-        //preparePatterns ();
-
-        Pattern p1 = Pattern.compile("<a[\\h]+href[\\h]*=[\\h]*\"(.*?)\"", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
-        Pattern p2 = Pattern.compile("<link(.*?)(href)[\\\\h]*=[\\\\h]*\\\"(.*?)\\\"", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
-        Pattern p3 = Pattern.compile("<script(.*?)(src)[\\\\h]*=[\\\\h]*\\\"(.*?)\\\"", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
-
-        patterns.add(p1);
-        patterns.add(p2);
-        patterns.add(p3);
-        logger.log("Total patterns: " + patterns.size());
+        preparePatterns();
 
         //TODO: set domain properly
         setDomainToCheck();
-        //html = resourceDownLoader.downloadAsString("file:///c:/sv/sero.html");
-        //logger.log(html);
+
         //linksToVisit.add(domain);
+        //TODO: remove link from here
         linksVisited.add(domain);
     }
 
@@ -85,29 +76,31 @@ public class WebCrawler {
     }
 
     private void startCrawl() {
+        //TODO: correct it
         //linksToVisit.forEach(s -> {
-        linksToVisit.forEach(s -> {
+        linksVisited.forEach(s -> {
             if (!linksVisited.contains(s)) {
                 linksVisited.add(s);
                 //linksToVisit.remove(s);
             }
             html = resourceDownLoader.downloadAsString(s);
+            //logger.log(html);
             pageLinks = processPatterns();
             logger.log("Page links information");
-            log (pageLinks);
-            processPageLinks (pageLinks);
+            log(pageLinks);
+            processPageLinks(pageLinks);
         });
         logger.log("Links visited information");
-        log (linksVisited);
+        log(linksVisited);
         logger.log("Links to visit information");
-        log (linksToVisit);
+        log(linksToVisit);
         logger.log("Ignored links information");
-        log (ignoredLinks);
+        log(ignoredLinks);
     }
 
     private void processPageLinks(List<String> pageLinks) {
         pageLinks.forEach(s -> {
-            if (isProperUrl (s)) {
+            if (isProperUrl(s)) {
                 if (!linksVisited.contains(s) && !linksToVisit.contains(s)) {
                     linksToVisit.add(s);
                 }
@@ -128,7 +121,7 @@ public class WebCrawler {
 
     private void log(List<String> links) {
         logger.log("Total links = " + links.size());
-        logger.log("Links = " + getLinks (links));
+        logger.log("Links = " + getLinks(links));
     }
 
     private String getLinks(List<String> list) {
