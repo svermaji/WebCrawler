@@ -1,0 +1,568 @@
+[2017-11-29T01:42:17.123]: domain = https://www.w3schools.com
+[2017-11-29T01:42:17.123]: domainToChk = w3schools.com
+[2017-11-29T01:42:17.123]: Temporary links to process are: 1
+[2017-11-29T01:42:17.123]: Links still to visit are: 0
+[2017-11-29T01:42:17.123]: Trying url [https://www.w3schools.com]
+[2017-11-29T01:42:18.106]: Download size [34141] complete in [0] seconds with speed [34] KB/s
+[2017-11-29T01:42:18.106]: Counter [1], threshold [10]
+[2017-11-29T01:42:18.106]: Temporary links to process are: 5
+[2017-11-29T01:42:18.106]: Links still to visit are: 12
+[2017-11-29T01:42:18.106]: Trying url [https://www.w3schools.com/html/default.asp]
+[2017-11-29T01:42:18.574]: Download size [49835] complete in [0] seconds with speed [106] KB/s
+[2017-11-29T01:42:18.590]: Trying url [https://www.w3schools.com/tags/default.asp]
+[2017-11-29T01:42:19.387]: Download size [64882] complete in [0] seconds with speed [81] KB/s
+[2017-11-29T01:42:19.403]: Trying url [https://www.w3schools.com/css/default.asp]
+[2017-11-29T01:42:19.871]: Download size [51416] complete in [0] seconds with speed [109] KB/s
+[2017-11-29T01:42:19.887]: Trying url [https://www.w3schools.com/cssref/default.asp]
+[2017-11-29T01:42:21.228]: Download size [98255] complete in [1] seconds with speed [73] KB/s
+[2017-11-29T01:42:21.244]: Trying url [https://www.w3schools.com/js/default.asp]
+[2017-11-29T01:42:21.774]: Download size [53561] complete in [0] seconds with speed [101] KB/s
+[2017-11-29T01:42:21.790]: Counter [6], threshold [10]
+[2017-11-29T01:42:21.790]: Temporary links to process are: 5
+[2017-11-29T01:42:21.790]: Links still to visit are: 359
+[2017-11-29T01:42:21.790]: Trying url [https://www.w3schools.com/jsref/default.asp]
+[2017-11-29T01:42:22.293]: Download size [61197] complete in [0] seconds with speed [121] KB/s
+[2017-11-29T01:42:22.293]: Trying url [https://www.w3schools.com/sql/default.asp]
+[2017-11-29T01:42:23.090]: Download size [47695] complete in [0] seconds with speed [59] KB/s
+[2017-11-29T01:42:23.105]: Trying url [https://www.w3schools.com/php/default.asp]
+[2017-11-29T01:42:23.542]: Download size [50775] complete in [0] seconds with speed [116] KB/s
+[2017-11-29T01:42:23.542]: Trying url [https://www.w3schools.com/jquery/default.asp]
+[2017-11-29T01:42:24.543]: Download size [47455] complete in [1] seconds with speed [47] KB/s
+[2017-11-29T01:42:24.559]: Thresh hold reached, skipping remaining links
+[2017-11-29T01:42:24.559]: Total links = 5
+[2017-11-29T01:42:24.559]: Links = [https://www.w3schools.com/jsref/default.asp
+https://www.w3schools.com/sql/default.asp
+https://www.w3schools.com/php/default.asp
+https://www.w3schools.com/jquery/default.asp
+https://www.w3schools.com/w3css/default.asp]
+[2017-11-29T01:42:24.559]: Counter [10], threshold [10]
+[2017-11-29T01:42:24.559]: Final report
+[2017-11-29T01:42:24.559]: ============
+[2017-11-29T01:42:24.559]: Links visited information
+[2017-11-29T01:42:24.559]: Total links = 10
+[2017-11-29T01:42:24.559]: Links = [https://www.w3schools.com
+https://www.w3schools.com/html/default.asp
+https://www.w3schools.com/tags/default.asp
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/cssref/default.asp
+https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/jsref/default.asp
+https://www.w3schools.com/sql/default.asp
+https://www.w3schools.com/php/default.asp
+https://www.w3schools.com/jquery/default.asp]
+[2017-11-29T01:42:24.559]: ----------------------------------------------------------
+[2017-11-29T01:42:24.559]: Links to visit information
+[2017-11-29T01:42:24.559]: Total links = 388
+[2017-11-29T01:42:24.559]: Links = [https://www.w3schools.com/colors/colors_picker.asp
+https://www.w3schools.com/bootstrap/default.asp
+https://www.w3schools.com/w3css/w3css_templates.asp
+https://www.w3schools.com/forum/default.asp
+https://www.w3schools.com/about/default.asp
+https://www.w3schools.com/about/about_copyright.asp
+https://www.w3schools.com/about/about_privacy.asp
+https://www.w3schools.com/html/html_intro.asp
+https://www.w3schools.com/html/html_examples.asp
+https://www.w3schools.com/html/html_quiz.asp
+https://www.w3schools.com/tags/default.asp
+https://www.w3schools.com/cert/default.asp
+https://www.w3schools.com/howto/default.asp
+https://www.w3schools.com/howto/howto_js_tabs.asp
+https://www.w3schools.com/howto/howto_css_dropdown.asp
+https://www.w3schools.com/howto/howto_js_accordion.asp
+https://www.w3schools.com/howto/howto_js_weight_converter.asp
+https://www.w3schools.com/howto/howto_css_animate_buttons.asp
+https://www.w3schools.com/howto/howto_js_sidenav.asp
+https://www.w3schools.com/howto/howto_js_topnav.asp
+https://www.w3schools.com/howto/howto_css_modals.asp
+https://www.w3schools.com/howto/howto_js_progressbar.asp
+https://www.w3schools.com/howto/howto_css_parallax.asp
+https://www.w3schools.com/howto/howto_css_login_form.asp
+https://www.w3schools.com/howto/howto_html_include.asp
+https://www.w3schools.com/howto/howto_google_maps.asp
+https://www.w3schools.com/howto/howto_js_rangeslider.asp
+https://www.w3schools.com/howto/howto_css_tooltip.asp
+https://www.w3schools.com/howto/howto_js_slideshow.asp
+https://www.w3schools.com/howto/howto_js_filter_lists.asp
+https://www.w3schools.com/howto/howto_js_sort_list.asp
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/angular/default.asp
+https://www.w3schools.com/xml/default.asp
+https://www.w3schools.com/cssref/default.asp
+https://www.w3schools.com/w3css/w3css_references.asp
+https://www.w3schools.com/browsers/default.asp
+https://www.w3schools.com/php/php_ref_array.asp
+https://www.w3schools.com/colors/colors_names.asp
+https://www.w3schools.com/charsets/default.asp
+https://www.w3schools.com/jquery/jquery_ref_selectors.asp
+https://www.w3schools.com/angular/angular_ref_directives.asp
+https://www.w3schools.com/css/css_examples.asp
+https://www.w3schools.com/js/js_examples.asp
+https://www.w3schools.com/w3css/w3css_examples.asp
+https://www.w3schools.com/js/js_dom_examples.asp
+https://www.w3schools.com/php/php_examples.asp
+https://www.w3schools.com/asp/asp_examples.asp
+https://www.w3schools.com/jquery/jquery_examples.asp
+https://www.w3schools.com/angular/angular_examples.asp
+https://www.w3schools.com/xml/xml_examples.asp
+https://www.w3schools.com/tags/tag_comment.asp
+https://www.w3schools.com/tags/tag_doctype.asp
+https://www.w3schools.com/tags/tag_a.asp
+https://www.w3schools.com/tags/tag_abbr.asp
+https://www.w3schools.com/tags/tag_acronym.asp
+https://www.w3schools.com/tags/tag_address.asp
+https://www.w3schools.com/tags/tag_applet.asp
+https://www.w3schools.com/tags/tag_area.asp
+https://www.w3schools.com/tags/tag_article.asp
+https://www.w3schools.com/tags/tag_aside.asp
+https://www.w3schools.com/tags/tag_audio.asp
+https://www.w3schools.com/tags/tag_b.asp
+https://www.w3schools.com/tags/tag_base.asp
+https://www.w3schools.com/tags/tag_basefont.asp
+https://www.w3schools.com/tags/tag_bdi.asp
+https://www.w3schools.com/tags/tag_bdo.asp
+https://www.w3schools.com/tags/tag_big.asp
+https://www.w3schools.com/tags/tag_blockquote.asp
+https://www.w3schools.com/tags/tag_body.asp
+https://www.w3schools.com/tags/tag_br.asp
+https://www.w3schools.com/tags/tag_button.asp
+https://www.w3schools.com/tags/tag_canvas.asp
+https://www.w3schools.com/tags/tag_caption.asp
+https://www.w3schools.com/tags/tag_center.asp
+https://www.w3schools.com/tags/tag_cite.asp
+https://www.w3schools.com/tags/tag_code.asp
+https://www.w3schools.com/tags/tag_col.asp
+https://www.w3schools.com/tags/tag_colgroup.asp
+https://www.w3schools.com/tags/tag_datalist.asp
+https://www.w3schools.com/tags/tag_dd.asp
+https://www.w3schools.com/tags/tag_del.asp
+https://www.w3schools.com/tags/tag_details.asp
+https://www.w3schools.com/tags/tag_dfn.asp
+https://www.w3schools.com/tags/tag_dialog.asp
+https://www.w3schools.com/tags/tag_dir.asp
+https://www.w3schools.com/tags/tag_div.asp
+https://www.w3schools.com/tags/tag_dl.asp
+https://www.w3schools.com/tags/tag_dt.asp
+https://www.w3schools.com/tags/tag_em.asp
+https://www.w3schools.com/tags/tag_embed.asp
+https://www.w3schools.com/tags/tag_fieldset.asp
+https://www.w3schools.com/tags/tag_figcaption.asp
+https://www.w3schools.com/tags/tag_figure.asp
+https://www.w3schools.com/tags/tag_font.asp
+https://www.w3schools.com/tags/tag_footer.asp
+https://www.w3schools.com/tags/tag_form.asp
+https://www.w3schools.com/tags/tag_frame.asp
+https://www.w3schools.com/tags/tag_frameset.asp
+https://www.w3schools.com/tags/tag_hn.asp
+https://www.w3schools.com/tags/tag_head.asp
+https://www.w3schools.com/tags/tag_header.asp
+https://www.w3schools.com/tags/tag_hr.asp
+https://www.w3schools.com/tags/tag_html.asp
+https://www.w3schools.com/tags/tag_i.asp
+https://www.w3schools.com/tags/tag_iframe.asp
+https://www.w3schools.com/tags/tag_img.asp
+https://www.w3schools.com/tags/tag_input.asp
+https://www.w3schools.com/tags/tag_ins.asp
+https://www.w3schools.com/tags/tag_kbd.asp
+https://www.w3schools.com/tags/tag_label.asp
+https://www.w3schools.com/tags/tag_legend.asp
+https://www.w3schools.com/tags/tag_li.asp
+https://www.w3schools.com/tags/tag_link.asp
+https://www.w3schools.com/tags/tag_main.asp
+https://www.w3schools.com/tags/tag_map.asp
+https://www.w3schools.com/tags/tag_mark.asp
+https://www.w3schools.com/tags/tag_menu.asp
+https://www.w3schools.com/tags/tag_menuitem.asp
+https://www.w3schools.com/tags/tag_meta.asp
+https://www.w3schools.com/tags/tag_meter.asp
+https://www.w3schools.com/tags/tag_nav.asp
+https://www.w3schools.com/tags/tag_noframes.asp
+https://www.w3schools.com/tags/tag_noscript.asp
+https://www.w3schools.com/tags/tag_object.asp
+https://www.w3schools.com/tags/tag_ol.asp
+https://www.w3schools.com/tags/tag_optgroup.asp
+https://www.w3schools.com/tags/tag_option.asp
+https://www.w3schools.com/tags/tag_output.asp
+https://www.w3schools.com/tags/tag_p.asp
+https://www.w3schools.com/tags/tag_param.asp
+https://www.w3schools.com/tags/tag_picture.asp
+https://www.w3schools.com/tags/tag_pre.asp
+https://www.w3schools.com/tags/tag_progress.asp
+https://www.w3schools.com/tags/tag_q.asp
+https://www.w3schools.com/tags/tag_rp.asp
+https://www.w3schools.com/tags/tag_rt.asp
+https://www.w3schools.com/tags/tag_ruby.asp
+https://www.w3schools.com/tags/tag_s.asp
+https://www.w3schools.com/tags/tag_samp.asp
+https://www.w3schools.com/tags/tag_script.asp
+https://www.w3schools.com/tags/tag_section.asp
+https://www.w3schools.com/tags/tag_select.asp
+https://www.w3schools.com/tags/tag_small.asp
+https://www.w3schools.com/tags/tag_source.asp
+https://www.w3schools.com/tags/tag_span.asp
+https://www.w3schools.com/tags/tag_strike.asp
+https://www.w3schools.com/tags/tag_strong.asp
+https://www.w3schools.com/tags/tag_style.asp
+https://www.w3schools.com/tags/tag_sub.asp
+https://www.w3schools.com/tags/tag_summary.asp
+https://www.w3schools.com/tags/tag_sup.asp
+https://www.w3schools.com/tags/tag_table.asp
+https://www.w3schools.com/tags/tag_tbody.asp
+https://www.w3schools.com/tags/tag_td.asp
+https://www.w3schools.com/tags/tag_textarea.asp
+https://www.w3schools.com/tags/tag_tfoot.asp
+https://www.w3schools.com/tags/tag_th.asp
+https://www.w3schools.com/tags/tag_thead.asp
+https://www.w3schools.com/tags/tag_time.asp
+https://www.w3schools.com/tags/tag_title.asp
+https://www.w3schools.com/tags/tag_tr.asp
+https://www.w3schools.com/tags/tag_track.asp
+https://www.w3schools.com/tags/tag_u.asp
+https://www.w3schools.com/tags/tag_ul.asp
+https://www.w3schools.com/tags/tag_var.asp
+https://www.w3schools.com/tags/tag_video.asp
+https://www.w3schools.com/tags/tag_wbr.asp
+https://www.w3schools.com/css/css_intro.asp
+https://www.w3schools.com/css/css_rwd_templates.asp
+https://www.w3schools.com/css/css_quiz.asp
+https://www.w3schools.com/cssref/css_selectors.asp
+https://www.w3schools.com/cssref/css_functions.asp
+https://www.w3schools.com/cssref/css_animatable.asp
+https://www.w3schools.com/cssref/css_ref_aural.asp
+https://www.w3schools.com/cssref/css_units.asp
+https://www.w3schools.com/cssref/css_colors.asp
+https://www.w3schools.com/cssref/css_default_values.asp
+https://www.w3schools.com/cssref/css3_browsersupport.asp
+https://www.w3schools.com/cssref/pr_text_color.asp
+https://www.w3schools.com/cssref/css3_pr_opacity.asp
+https://www.w3schools.com/cssref/css3_pr_background.asp
+https://www.w3schools.com/cssref/pr_background-attachment.asp
+https://www.w3schools.com/cssref/pr_background-blend-mode.asp
+https://www.w3schools.com/cssref/pr_background-color.asp
+https://www.w3schools.com/cssref/pr_background-image.asp
+https://www.w3schools.com/cssref/pr_background-position.asp
+https://www.w3schools.com/cssref/pr_background-repeat.asp
+https://www.w3schools.com/cssref/css3_pr_background-clip.asp
+https://www.w3schools.com/cssref/css3_pr_background-origin.asp
+https://www.w3schools.com/cssref/css3_pr_background-size.asp
+https://www.w3schools.com/cssref/pr_border.asp
+https://www.w3schools.com/cssref/pr_border-bottom.asp
+https://www.w3schools.com/cssref/pr_border-bottom_color.asp
+https://www.w3schools.com/cssref/css3_pr_border-bottom-left-radius.asp
+https://www.w3schools.com/cssref/css3_pr_border-bottom-right-radius.asp
+https://www.w3schools.com/cssref/pr_border-bottom_style.asp
+https://www.w3schools.com/cssref/pr_border-bottom_width.asp
+https://www.w3schools.com/cssref/pr_border-color.asp
+https://www.w3schools.com/cssref/css3_pr_border-image.asp
+https://www.w3schools.com/cssref/css3_pr_border-image-outset.asp
+https://www.w3schools.com/cssref/css3_pr_border-image-repeat.asp
+https://www.w3schools.com/cssref/css3_pr_border-image-slice.asp
+https://www.w3schools.com/cssref/css3_pr_border-image-source.asp
+https://www.w3schools.com/cssref/css3_pr_border-image-width.asp
+https://www.w3schools.com/cssref/pr_border-left.asp
+https://www.w3schools.com/cssref/pr_border-left_color.asp
+https://www.w3schools.com/cssref/pr_border-left_style.asp
+https://www.w3schools.com/cssref/pr_border-left_width.asp
+https://www.w3schools.com/cssref/css3_pr_border-radius.asp
+https://www.w3schools.com/cssref/pr_border-right.asp
+https://www.w3schools.com/cssref/pr_border-right_color.asp
+https://www.w3schools.com/cssref/pr_border-right_style.asp
+https://www.w3schools.com/cssref/pr_border-right_width.asp
+https://www.w3schools.com/cssref/pr_border-style.asp
+https://www.w3schools.com/cssref/pr_border-top.asp
+https://www.w3schools.com/cssref/pr_border-top_color.asp
+https://www.w3schools.com/cssref/css3_pr_border-top-left-radius.asp
+https://www.w3schools.com/cssref/css3_pr_border-top-right-radius.asp
+https://www.w3schools.com/cssref/pr_border-top_style.asp
+https://www.w3schools.com/cssref/pr_border-top_width.asp
+https://www.w3schools.com/cssref/pr_border-width.asp
+https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+https://www.w3schools.com/cssref/pr_pos_bottom.asp
+https://www.w3schools.com/cssref/pr_class_clear.asp
+https://www.w3schools.com/cssref/pr_pos_clip.asp
+https://www.w3schools.com/cssref/pr_class_display.asp
+https://www.w3schools.com/cssref/pr_class_float.asp
+https://www.w3schools.com/cssref/pr_dim_height.asp
+https://www.w3schools.com/cssref/pr_pos_left.asp
+https://www.w3schools.com/cssref/pr_margin.asp
+https://www.w3schools.com/cssref/pr_margin-bottom.asp
+https://www.w3schools.com/cssref/pr_margin-left.asp
+https://www.w3schools.com/cssref/pr_margin-right.asp
+https://www.w3schools.com/cssref/pr_margin-top.asp
+https://www.w3schools.com/cssref/pr_dim_max-height.asp
+https://www.w3schools.com/cssref/pr_dim_max-width.asp
+https://www.w3schools.com/cssref/pr_dim_min-height.asp
+https://www.w3schools.com/cssref/pr_dim_min-width.asp
+https://www.w3schools.com/cssref/pr_pos_overflow.asp
+https://www.w3schools.com/cssref/css3_pr_overflow-x.asp
+https://www.w3schools.com/cssref/css3_pr_overflow-y.asp
+https://www.w3schools.com/cssref/pr_padding.asp
+https://www.w3schools.com/cssref/pr_padding-bottom.asp
+https://www.w3schools.com/cssref/pr_padding-left.asp
+https://www.w3schools.com/cssref/pr_padding-right.asp
+https://www.w3schools.com/cssref/pr_padding-top.asp
+https://www.w3schools.com/cssref/pr_class_position.asp
+https://www.w3schools.com/cssref/pr_pos_right.asp
+https://www.w3schools.com/cssref/pr_pos_top.asp
+https://www.w3schools.com/cssref/pr_class_visibility.asp
+https://www.w3schools.com/cssref/pr_dim_width.asp
+https://www.w3schools.com/cssref/pr_pos_vertical-align.asp
+https://www.w3schools.com/cssref/pr_pos_z-index.asp
+https://www.w3schools.com/cssref/css3_pr_align-content.asp
+https://www.w3schools.com/cssref/css3_pr_align-items.asp
+https://www.w3schools.com/cssref/css3_pr_align-self.asp
+https://www.w3schools.com/cssref/css3_pr_flex.asp
+https://www.w3schools.com/cssref/css3_pr_flex-basis.asp
+https://www.w3schools.com/cssref/css3_pr_flex-direction.asp
+https://www.w3schools.com/cssref/css3_pr_flex-flow.asp
+https://www.w3schools.com/cssref/css3_pr_flex-grow.asp
+https://www.w3schools.com/cssref/css3_pr_flex-shrink.asp
+https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp
+https://www.w3schools.com/cssref/css3_pr_justify-content.asp
+https://www.w3schools.com/cssref/css3_pr_order.asp
+https://www.w3schools.com/cssref/css3_pr_hanging-punctuation.asp
+https://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+https://www.w3schools.com/cssref/pr_dim_line-height.asp
+https://www.w3schools.com/cssref/css3_pr_tab-size.asp
+https://www.w3schools.com/cssref/pr_text_text-align.asp
+https://www.w3schools.com/cssref/css3_pr_text-align-last.asp
+https://www.w3schools.com/cssref/pr_text_text-indent.asp
+https://www.w3schools.com/cssref/css3_pr_text-justify.asp
+https://www.w3schools.com/cssref/pr_text_text-transform.asp
+https://www.w3schools.com/cssref/pr_text_white-space.asp
+https://www.w3schools.com/cssref/css3_pr_word-break.asp
+https://www.w3schools.com/cssref/pr_text_word-spacing.asp
+https://www.w3schools.com/cssref/css3_pr_word-wrap.asp
+https://www.w3schools.com/cssref/pr_text_text-decoration.asp
+https://www.w3schools.com/cssref/css3_pr_text-decoration-color.asp
+https://www.w3schools.com/cssref/css3_pr_text-decoration-line.asp
+https://www.w3schools.com/cssref/css3_pr_text-decoration-style.asp
+https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+https://www.w3schools.com/cssref/pr_font_font.asp
+https://www.w3schools.com/cssref/pr_font_font-family.asp
+https://www.w3schools.com/cssref/css3_pr_font-kerning.asp
+https://www.w3schools.com/cssref/pr_font_font-size.asp
+https://www.w3schools.com/cssref/css3_pr_font-size-adjust.asp
+https://www.w3schools.com/cssref/css3_pr_font-stretch.asp
+https://www.w3schools.com/cssref/pr_font_font-style.asp
+https://www.w3schools.com/cssref/pr_font_font-variant.asp
+https://www.w3schools.com/cssref/pr_font_weight.asp
+https://www.w3schools.com/cssref/pr_text_direction.asp
+https://www.w3schools.com/cssref/pr_text_unicode-bidi.asp
+https://www.w3schools.com/cssref/css3_pr_user-select.asp
+https://www.w3schools.com/cssref/pr_border-collapse.asp
+https://www.w3schools.com/cssref/pr_border-spacing.asp
+https://www.w3schools.com/cssref/pr_tab_caption-side.asp
+https://www.w3schools.com/cssref/pr_tab_empty-cells.asp
+https://www.w3schools.com/cssref/pr_tab_table-layout.asp
+https://www.w3schools.com/cssref/pr_gen_counter-increment.asp
+https://www.w3schools.com/cssref/pr_gen_counter-reset.asp
+https://www.w3schools.com/cssref/pr_list-style.asp
+https://www.w3schools.com/cssref/pr_list-style-image.asp
+https://www.w3schools.com/cssref/pr_list-style-position.asp
+https://www.w3schools.com/cssref/pr_list-style-type.asp
+https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp
+https://www.w3schools.com/cssref/css3_pr_animation.asp
+https://www.w3schools.com/cssref/css3_pr_animation-delay.asp
+https://www.w3schools.com/cssref/css3_pr_animation-direction.asp
+https://www.w3schools.com/cssref/css3_pr_animation-duration.asp
+https://www.w3schools.com/cssref/css3_pr_animation-fill-mode.asp
+https://www.w3schools.com/cssref/css3_pr_animation-iteration-count.asp
+https://www.w3schools.com/cssref/css3_pr_animation-name.asp
+https://www.w3schools.com/cssref/css3_pr_animation-play-state.asp
+https://www.w3schools.com/cssref/css3_pr_animation-timing-function.asp
+https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp
+https://www.w3schools.com/cssref/css3_pr_perspective.asp
+https://www.w3schools.com/cssref/css3_pr_perspective-origin.asp
+https://www.w3schools.com/cssref/css3_pr_transform.asp
+https://www.w3schools.com/cssref/css3_pr_transform-origin.asp
+https://www.w3schools.com/cssref/css3_pr_transform-style.asp
+https://www.w3schools.com/cssref/css3_pr_transition.asp
+https://www.w3schools.com/cssref/css3_pr_transition-property.asp
+https://www.w3schools.com/cssref/css3_pr_transition-duration.asp
+https://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp
+https://www.w3schools.com/cssref/css3_pr_transition-delay.asp
+https://www.w3schools.com/cssref/css3_pr_box-sizing.asp
+https://www.w3schools.com/cssref/pr_gen_content.asp
+https://www.w3schools.com/cssref/pr_class_cursor.asp
+https://www.w3schools.com/cssref/pr_outline.asp
+https://www.w3schools.com/cssref/pr_outline-color.asp
+https://www.w3schools.com/cssref/css3_pr_outline-offset.asp
+https://www.w3schools.com/cssref/pr_outline-style.asp
+https://www.w3schools.com/cssref/pr_outline-width.asp
+https://www.w3schools.com/cssref/css3_pr_resize.asp
+https://www.w3schools.com/cssref/css3_pr_text-overflow.asp
+https://www.w3schools.com/cssref/css3_pr_column-count.asp
+https://www.w3schools.com/cssref/css3_pr_column-fill.asp
+https://www.w3schools.com/cssref/css3_pr_column-gap.asp
+https://www.w3schools.com/cssref/css3_pr_column-rule.asp
+https://www.w3schools.com/cssref/css3_pr_column-rule-color.asp
+https://www.w3schools.com/cssref/css3_pr_column-rule-style.asp
+https://www.w3schools.com/cssref/css3_pr_column-rule-width.asp
+https://www.w3schools.com/cssref/css3_pr_column-span.asp
+https://www.w3schools.com/cssref/css3_pr_column-width.asp
+https://www.w3schools.com/cssref/css3_pr_columns.asp
+https://www.w3schools.com/cssref/pr_print_pageba.asp
+https://www.w3schools.com/cssref/pr_print_pagebb.asp
+https://www.w3schools.com/cssref/pr_print_pagebi.asp
+https://www.w3schools.com/cssref/pr_gen_quotes.asp
+https://www.w3schools.com/cssref/css3_pr_filter.asp
+https://www.w3schools.com/cssref/css3_pr_object-fit.asp
+https://www.w3schools.com/default.asp
+https://www.w3schools.com/js/js_versions.asp
+https://www.w3schools.com/js/js_quiz.asp
+https://www.w3schools.com/w3css/default.asp
+https://www.w3schools.com/sql/default.asp
+https://www.w3schools.com/php/default.asp
+https://www.w3schools.com/jquery/default.asp
+https://www.w3schools.com/sql/sql_intro.asp
+https://www.w3schools.com/sql/sql_quiz.asp
+https://www.w3schools.com/sql/sql_quickref.asp
+https://www.w3schools.com/sql/sql_datatypes.asp
+https://www.w3schools.com/php/php_intro.asp
+https://www.w3schools.com/php/php_ref_calendar.asp
+https://www.w3schools.com/php/php_ref_date.asp
+https://www.w3schools.com/php/php_ref_directory.asp
+https://www.w3schools.com/php/php_ref_error.asp
+https://www.w3schools.com/php/php_ref_filesystem.asp
+https://www.w3schools.com/php/php_ref_filter.asp
+https://www.w3schools.com/php/php_ref_ftp.asp
+https://www.w3schools.com/php/php_ref_http.asp
+https://www.w3schools.com/php/php_ref_libxml.asp
+https://www.w3schools.com/php/php_ref_mail.asp
+https://www.w3schools.com/php/php_ref_math.asp
+https://www.w3schools.com/php/php_ref_misc.asp
+https://www.w3schools.com/php/php_ref_mysqli.asp
+https://www.w3schools.com/php/php_ref_simplexml.asp
+https://www.w3schools.com/php/php_ref_string.asp
+https://www.w3schools.com/php/php_ref_xml.asp
+https://www.w3schools.com/php/php_ref_zip.asp
+https://www.w3schools.com/php/php_quiz.asp
+https://www.w3schools.com/jquery/jquery_intro.asp
+https://www.w3schools.com/jquery/jquery_quiz.asp]
+[2017-11-29T01:42:24.559]: ----------------------------------------------------------
+[2017-11-29T01:42:24.559]: Ignored links information
+[2017-11-29T01:42:24.559]: Total links = 122
+[2017-11-29T01:42:24.559]: Links = [https://www.w3schools.com/javascript:void(0)
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default
+https://www.w3schools.com/css/tryit.asp?filename=trycss_default
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_default
+https://www.w3schools.com/javascript:void(0);
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/segoe ui
+https://www.w3schools.com/ + math.random() + 
+https://www.w3schools.com/html/exercise.asp?filename=exercise_attributes1
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/html/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/html/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/tags/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/tags/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js
+https://www.w3schools.com/css/exercise.asp?filename=exercise_syntax1
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/css/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/css/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js
+https://www.w3schools.com/cssref/#color
+https://www.w3schools.com/cssref/#background
+https://www.w3schools.com/cssref/#basic
+https://www.w3schools.com/cssref/#flexible
+https://www.w3schools.com/cssref/#text
+https://www.w3schools.com/cssref/#textdecor
+https://www.w3schools.com/cssref/#font
+https://www.w3schools.com/cssref/#writing
+https://www.w3schools.com/cssref/#table
+https://www.w3schools.com/cssref/#lists
+https://www.w3schools.com/cssref/#animation
+https://www.w3schools.com/cssref/#transform
+https://www.w3schools.com/cssref/#transitions
+https://www.w3schools.com/cssref/#user
+https://www.w3schools.com/cssref/#multicol
+https://www.w3schools.com/cssref/#paged
+https://www.w3schools.com/cssref/#gencon
+https://www.w3schools.com/cssref/#filter
+https://www.w3schools.com/cssref/#image
+https://www.w3schools.com/cssref/#masking
+https://www.w3schools.com/cssref/#speech
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/cssref/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/cssref/content
+https://www.w3schools.com/lib/w3schools_footer.js
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/js/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/js/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/jsref/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/jsref/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/sql/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/sql/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/php/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/php/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js
+http://www.facebook.com/sharer.php?u=https://www.w3schools.com'+loc+'
+https://twitter.com/home?status=currently reading https://www.w3schools.com'+loc+'
+https://plus.google.com/share?url=https://www.w3schools.com'+loc+'
+https://www.w3schools.com/jquery/javascript:void(0);
+https://www.w3schools.com//www.w3schools.com/w3css/
+https://www.w3schools.com//www.w3schools.com
+https://www.w3schools.com/favicon.ico
+https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/jquery/font-family:'segoe ui',arial,sans-serif
+https://www.w3schools.com/lib/w3schools_footer.js]

@@ -3,6 +3,7 @@ package org.sv.webcrawler.util;
 public class Utils {
 
     public static final String DOUBLE_QUOTE = "\"";
+    public static final String FWD_SLASH = "/";
     public static final String SPACE = " ";
     public static final String COMMA = ",";
     public static final String COMMA_SPACE = COMMA + SPACE;
