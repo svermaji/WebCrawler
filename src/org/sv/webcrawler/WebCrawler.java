@@ -21,7 +21,8 @@ public class WebCrawler {
     private List<String> patternNames;
 
     //private String domain = "http://www.serosoft.in";
-    private String domain = "file:///" + Utils.getCurrentDir() + "/resource/sero.html";
+    //private String domain = "file:///" + Utils.getCurrentDir() + "/resource/serosoft.in.html";
+    private String domain = "file:///" + Utils.getCurrentDir() + "/resource/w3schools.html";
     private String domainToChk = domain;
 
     private MyLogger logger;
